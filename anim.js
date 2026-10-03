@@ -96,7 +96,7 @@
         count: "3 pack disponibili",
         name: "Call of Duty: Black Ops 7 / Warzone",
         desc: "Aimbot, ESP, spoofer ranked & triggerbot. 100% a prova di streaming.",
-        price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "1.289 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "Scopri i pack Warzone →", href: "https://hight-gaming.com/cheat-warzone.html",
         glow: "59,130,246"
       },
@@ -105,7 +105,7 @@
         count: "3 pack disponibili",
         name: "ARC Raiders",
         desc: "Aimbot, ESP giocatori & robot, ESP loot & estrazione, triggerbot e spoofer HWID.",
-        price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "1.289 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "Scopri i pack ARC Raiders →", href: "https://hight-gaming.com/cheat-arc-rider.html",
         glow: "245,158,11"
       },
@@ -114,7 +114,7 @@
         count: "2 pack disponibili",
         name: "Fortnite",
         desc: "Aimbot personalizzato, ESP giocatori, ESP loot & forzieri, spoofer HWID + cleaner.",
-        price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "1.289 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "Scopri i pack Fortnite →", href: "https://hight-gaming.com/cheat-fortnite.html",
         glow: "139,92,246"
       },
@@ -123,7 +123,7 @@
         count: "1 pack disponibile",
         name: "Valorant",
         desc: "Aimbot, ESP, triggerbot e spoofer HWID. Non rilevabile e 100% stream proof.",
-        price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "1.289 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "Scopri il pack Valorant →", href: "https://hight-gaming.com/cheat-valorant.html",
         glow: "255,70,85"
       },
@@ -132,7 +132,7 @@
         count: "1 pack disponibile",
         name: "Escape from Tarkov",
         desc: "Aimbot, ESP giocatori & scav, ESP loot ed estrazione, spoofer HWID. Subito pronto all'uso.",
-        price: "389 €", consoles: "🖥️ PC",
+        price: "1.289 €", consoles: "🖥️ PC",
         cta: "Scopri il pack Tarkov →", href: "https://hight-gaming.com/cheat-tarkov.html",
         glow: "166,154,70"
       }
