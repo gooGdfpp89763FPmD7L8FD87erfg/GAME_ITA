@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hight-gaming.com/sitemap.xml
